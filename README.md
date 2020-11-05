@@ -17,7 +17,7 @@ Sorting Plugin
     </a>
 </h1>
 
-## Features
+## Features (from Fork)
 
 * Sort products in taxons by simple drag and drop
   * Well-arranged overview of all products in the taxon
